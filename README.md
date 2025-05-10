@@ -32,4 +32,4 @@ Libraries used:
 4. use pnpm run build for two remote application &
 5. pnpm run dev for host appication
 
-host Strictly running on port 5000, Remote application running on ports 5001 & 5002 respectively.
+host application Strictly running on port 5000, Remote application running on ports 5001 & 5002 respectively.
